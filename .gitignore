@@ -4,5 +4,6 @@ __pycache__/
 .mypy_cache/
 .DS_Store
 Thumbs.db
-Python - SGBDS/postgres/
-Python - SGBDS/sgbds/
+course/Python - SGBDS/postgres/
+course/Python - SGBDS/sgbds/
+.venv/
