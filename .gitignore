@@ -4,6 +4,9 @@ __pycache__/
 .mypy_cache/
 .DS_Store
 Thumbs.db
+.env
+.env.*
+!.env.example
 course/Python - SGBDS/postgres/
 course/Python - SGBDS/sgbds/
 .venv/

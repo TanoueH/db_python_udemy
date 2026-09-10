@@ -1,0 +1,21 @@
+# Core
+pandas
+numpy
+openpyxl
+SQLAlchemy
+python-dotenv
+requests
+
+# Databases
+psycopg2-binary
+mysql-connector-python
+pymongo
+pyodbc
+
+# APIs / Cloud
+google-cloud-bigquery
+pandas-gbq
+
+# Optional helpers
+jupyter
+ipykernel
